@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CB807A5-03B5-428D-B536-5A39EF491FAF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibraryManagementSystem</RootNamespace>
+    <AssemblyName>LibraryManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdminController.cs" />
+    <Compile Include="Admin\DeleteLibrarianAccountInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DeleteLibrarianAccountInterface.Designer.cs">
+      <DependentUpon>DeleteLibrarianAccountInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CreateAccountInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\CreateAccountInterface.Designer.cs">
+      <DependentUpon>CreateAccountInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Book\Category.cs" />
+    <Compile Include="Librarian\Manage Book\Author.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="Admin\IAdminLogin.cs" />
+    <Compile Include="Librarian\Manage Customer\Customer.cs" />
+    <Compile Include="Librarian\Manage Book\Book.cs" />
+    <Compile Include="Librarian\Manage Book\AddBookInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Book\AddBookInterface.Designer.cs">
+      <DependentUpon>AddBookInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\AssignBookInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\AssignBookInterface.Designer.cs">
+      <DependentUpon>AssignBookInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\AssignAndUpdateMembershipInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\AssignAndUpdateMembershipInterface.Designer.cs">
+      <DependentUpon>AssignAndUpdateMembershipInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\LibrarianHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\LibrarianHome.Designer.cs">
+      <DependentUpon>LibrarianHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\LibrarianLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\LibrarianLogin.Designer.cs">
+      <DependentUpon>LibrarianLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Book\SearchBookInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Book\SearchBookInterface.Designer.cs">
+      <DependentUpon>SearchBookInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\ManageCustomerOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\ManageCustomerOptions.Designer.cs">
+      <DependentUpon>ManageCustomerOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\ManageMembershipOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\ManageMembershipOptions.Designer.cs">
+      <DependentUpon>ManageMembershipOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\ManageMembershipTypeInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\ManageMembershipTypeInterface.Designer.cs">
+      <DependentUpon>ManageMembershipTypeInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Librarian.cs" />
+    <Compile Include="Librarian\LibrarianController.cs" />
+    <Compile Include="Librarian\Manage Membership\Membership.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Librarian\Manage Customer\CustomerReceiptInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\CustomerReceiptInterface.Designer.cs">
+      <DependentUpon>CustomerReceiptInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\ReceiveBookInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\ReceiveBookInterface.Designer.cs">
+      <DependentUpon>ReceiveBookInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Book\UpdateBookInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Book\UpdateBookInterface.Designer.cs">
+      <DependentUpon>UpdateBookInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\InsertMembershipInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\InsertMembershipInterface.Designer.cs">
+      <DependentUpon>InsertMembershipInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\ViewBooksAssignedInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Customer\ViewBooksAssignedInterface.Designer.cs">
+      <DependentUpon>ViewBooksAssignedInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\viewMembersInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librarian\Manage Membership\viewMembersInterface.Designer.cs">
+      <DependentUpon>viewMembersInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UpdateLibrarianAccountInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateLibrarianAccountInterface.Designer.cs">
+      <DependentUpon>UpdateLibrarianAccountInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ReportInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ReportInterface.Designer.cs">
+      <DependentUpon>ReportInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Suggestion\ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggestion\ADD.Designer.cs">
+      <DependentUpon>ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suggestion\Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggestion\Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suggestion\Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggestion\Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suggestion\Suggest.cs" />
+    <Compile Include="Suggestion\Suggestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggestion\Suggestion.Designer.cs">
+      <DependentUpon>Suggestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suggestion\Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggestion\Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Book\AddBookInterface.resx">
+      <DependentUpon>AddBookInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Customer\AssignBookInterface.resx">
+      <DependentUpon>AssignBookInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Membership\AssignAndUpdateMembershipInterface.resx">
+      <DependentUpon>AssignAndUpdateMembershipInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\CreateAccountInterface.resx">
+      <DependentUpon>CreateAccountInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DeleteLibrarianAccountInterface.resx">
+      <DependentUpon>DeleteLibrarianAccountInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\LibrarianHome.resx">
+      <DependentUpon>LibrarianHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\LibrarianLogin.resx">
+      <DependentUpon>LibrarianLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Book\SearchBookInterface.resx">
+      <DependentUpon>SearchBookInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Customer\ManageCustomerOptions.resx">
+      <DependentUpon>ManageCustomerOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Membership\ManageMembershipOptions.resx">
+      <DependentUpon>ManageMembershipOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Membership\ManageMembershipTypeInterface.resx">
+      <DependentUpon>ManageMembershipTypeInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateLibrarianAccountInterface.resx">
+      <DependentUpon>UpdateLibrarianAccountInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Customer\CustomerReceiptInterface.resx">
+      <DependentUpon>CustomerReceiptInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Customer\ReceiveBookInterface.resx">
+      <DependentUpon>ReceiveBookInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Book\UpdateBookInterface.resx">
+      <DependentUpon>UpdateBookInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Membership\InsertMembershipInterface.resx">
+      <DependentUpon>InsertMembershipInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Customer\ViewBooksAssignedInterface.resx">
+      <DependentUpon>ViewBooksAssignedInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librarian\Manage Membership\viewMembersInterface.resx">
+      <DependentUpon>viewMembersInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ReportInterface.resx">
+      <DependentUpon>ReportInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suggestion\ADD.resx">
+      <DependentUpon>ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suggestion\Delete.resx">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suggestion\Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suggestion\Suggestion.resx">
+      <DependentUpon>Suggestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suggestion\Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\Admin.png" />
+    <Content Include="Images\Librarian.png" />
+    <Content Include="Images\LibraryLogo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,332 @@
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+c:\users\muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+C:\Users\Muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageBooks.resources
+C:\Users\Muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.updateBook.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.addBook.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.manageMembership.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.membershipTypes.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.updateMembership.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.assignMembership.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.viewMembers.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.assignBook.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.manageCustomers.resources
+C:\Users\Muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.receiveBook.resources
+C:\Users\Muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.viewBookAssigned.resources
+C:\Users\Muneeb1\documents\visual studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.receipt.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.addBook.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.assignBook.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.assignMembership.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageBooks.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.manageCustomers.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.manageMembership.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.membershipTypes.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.receipt.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.receiveBook.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.updateBook.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.updateMembership.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.viewBookAssigned.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.viewMembers.resources
+D:\University\University Documents\Fall 2018\DBMS\Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Muneeb1\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\OOADProject\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Raveed\Documents\Visual Studio 2012\Projects\DP Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+I:\University\University Documents\Fall 2019\DP\Project\BeforeImplementationOfDPs\DP Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Muneeb\Documents\Visual Studio 2012\Projects\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Muneeb\Desktop\Summer'20\SE\Project\SE Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Dexton\Downloads\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Dexton\Downloads\LMS\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Dexton\Downloads\LMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Downloads\LMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Desktop\SE\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Dexton\Desktop\SE\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Desktop\SE\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.ADD.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Delete.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Search.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Update.resources
+C:\Users\Dexton\Desktop\check\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Suggestion.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignBookInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AssignAndUpdateMembershipInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CreateAccountInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarianAccountInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageCustomerOptions.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipOptions.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ManageMembershipTypeInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Home.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateLibrarianAccountInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.CustomerReceiptInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReceiveBookInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBookInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.InsertMembershipInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksAssignedInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewMembersInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReportInterface.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.ADD.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Delete.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Search.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Suggestion.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Suggestion.Update.resources
+C:\Users\Dexton\Desktop\All update\LibraryManagementSystem-SE\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
